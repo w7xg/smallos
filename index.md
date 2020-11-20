@@ -1,4 +1,3 @@
-# SMALL OS
 ---
 a JavaScript Study And Develop
 ---
